@@ -1,0 +1,18 @@
+#Running
+
+##Server:
+node index.js (sudo is required due to the Flash policy file port)
+
+##Client:
+localhost:8000/
+
+#Required
+
+##Node Modules
+Connect - http://github.com/senchalabs/Connect/
+node-websocket-server - http://github.com/miksago/node-websocket-server
+
+##Browser
+Flash in your browser
+###Resouces used
+web-socket-js - http://github.com/gimite/web-socket-js
